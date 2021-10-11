@@ -1,0 +1,785 @@
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\appsettings.Development.json
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\appsettings.json
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\APIApplication.exe
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\APIApplication.deps.json
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\APIApplication.runtimeconfig.json
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\APIApplication.runtimeconfig.dev.json
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\APIApplication.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\ref\APIApplication.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\APIApplication.pdb
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\obj\Debug\net5.0\APIApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#_Project\WebAPI\APIApplication\APIApplication\obj\Debug\net5.0\APIApplication.AssemblyInfoInputs.cache
+C:\C#_Project\WebAPI\APIApplication\APIApplication\obj\Debug\net5.0\APIApplication.AssemblyInfo.cs
+C:\C#_Project\WebAPI\APIApplication\APIApplication\obj\Debug\net5.0\APIApplication.csproj.CoreCompileInputs.cache
+C:\C#_Project\WebAPI\APIApplication\APIApplication\obj\Debug\net5.0\APIApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\C#_Project\WebAPI\APIApplication\APIApplication\obj\Debug\net5.0\staticwebassets\APIApplication.StaticWebAssets.Manifest.cache
+C:\C#_Project\WebAPI\APIApplication\APIApplication\obj\Debug\net5.0\staticwebassets\APIApplication.StaticWebAssets.xml
+C:\C#_Project\WebAPI\APIApplication\APIApplication\obj\Debug\net5.0\scopedcss\bundle\APIApplication.styles.css
+C:\C#_Project\WebAPI\APIApplication\APIApplication\obj\Debug\net5.0\APIApplication.RazorTargetAssemblyInfo.cache
+C:\C#_Project\WebAPI\APIApplication\APIApplication\obj\Debug\net5.0\APIApplication.csproj.CopyComplete
+C:\C#_Project\WebAPI\APIApplication\APIApplication\obj\Debug\net5.0\APIApplication.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\obj\Debug\net5.0\ref\APIApplication.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\obj\Debug\net5.0\APIApplication.pdb
+C:\C#_Project\WebAPI\APIApplication\APIApplication\obj\Debug\net5.0\APIApplication.genruntimeconfig.cache
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\Humanizer.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\obj\Debug\net5.0\APIApplication.MvcApplicationPartsAssemblyInfo.cs
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\bin\Debug\net5.0\APIApplication.Views.dll
+C:\C#_Project\WebAPI\APIApplication\APIApplication\obj\Debug\net5.0\APIApplication.csprojAssemblyReference.cache
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\appsettings.Development.json
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\appsettings.json
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\APIApplication.exe
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\APIApplication.deps.json
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\APIApplication.runtimeconfig.json
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\APIApplication.runtimeconfig.dev.json
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\APIApplication.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\ref\APIApplication.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\APIApplication.pdb
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\APIApplication.Views.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\Humanizer.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\obj\Debug\net5.0\APIApplication.csprojAssemblyReference.cache
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\obj\Debug\net5.0\APIApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\obj\Debug\net5.0\APIApplication.AssemblyInfoInputs.cache
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\obj\Debug\net5.0\APIApplication.AssemblyInfo.cs
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\obj\Debug\net5.0\APIApplication.csproj.CoreCompileInputs.cache
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\obj\Debug\net5.0\APIApplication.MvcApplicationPartsAssemblyInfo.cs
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\obj\Debug\net5.0\APIApplication.MvcApplicationPartsAssemblyInfo.cache
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\obj\Debug\net5.0\staticwebassets\APIApplication.StaticWebAssets.Manifest.cache
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\obj\Debug\net5.0\staticwebassets\APIApplication.StaticWebAssets.xml
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\obj\Debug\net5.0\scopedcss\bundle\APIApplication.styles.css
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\obj\Debug\net5.0\APIApplication.RazorTargetAssemblyInfo.cache
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\obj\Debug\net5.0\APIApplication.csproj.CopyComplete
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\obj\Debug\net5.0\APIApplication.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\obj\Debug\net5.0\ref\APIApplication.dll
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\obj\Debug\net5.0\APIApplication.pdb
+D:\RaFI-Doc\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection\APIApplication\obj\Debug\net5.0\APIApplication.genruntimeconfig.cache
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\obj\Debug\net5.0\APIApplication.csprojAssemblyReference.cache
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\obj\Debug\net5.0\APIApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\obj\Debug\net5.0\APIApplication.AssemblyInfoInputs.cache
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\obj\Debug\net5.0\APIApplication.AssemblyInfo.cs
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\obj\Debug\net5.0\APIApplication.csproj.CoreCompileInputs.cache
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\obj\Debug\net5.0\APIApplication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\obj\Debug\net5.0\APIApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\obj\Debug\net5.0\APIApplication.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\obj\Debug\net5.0\ref\APIApplication.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\obj\Debug\net5.0\APIApplication.pdb
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\appsettings.json
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\APIApplication.exe
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\APIApplication.deps.json
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\APIApplication.runtimeconfig.json
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\APIApplication.runtimeconfig.dev.json
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\APIApplication.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\ref\APIApplication.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\APIApplication.pdb
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\APIApplication.Views.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\Humanizer.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\obj\Debug\net5.0\staticwebassets\APIApplication.StaticWebAssets.Manifest.cache
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\obj\Debug\net5.0\staticwebassets\APIApplication.StaticWebAssets.xml
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\obj\Debug\net5.0\scopedcss\bundle\APIApplication.styles.css
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\obj\Debug\net5.0\APIApplication.RazorTargetAssemblyInfo.cache
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\obj\Debug\net5.0\APIApplication.csproj.CopyComplete
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API-Implementation-of-Dependency-Injection - Copy\APIApplication\obj\Debug\net5.0\APIApplication.genruntimeconfig.cache
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\appsettings.json
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\APIApplication.exe
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\APIApplication.deps.json
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\APIApplication.runtimeconfig.json
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\APIApplication.runtimeconfig.dev.json
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\APIApplication.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\ref\APIApplication.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\APIApplication.pdb
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\APIApplication.Views.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\Humanizer.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\obj\Debug\net5.0\APIApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\obj\Debug\net5.0\APIApplication.AssemblyInfoInputs.cache
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\obj\Debug\net5.0\APIApplication.AssemblyInfo.cs
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\obj\Debug\net5.0\APIApplication.csproj.CoreCompileInputs.cache
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\obj\Debug\net5.0\APIApplication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\obj\Debug\net5.0\APIApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\obj\Debug\net5.0\staticwebassets\APIApplication.StaticWebAssets.Manifest.cache
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\obj\Debug\net5.0\staticwebassets\APIApplication.StaticWebAssets.xml
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\obj\Debug\net5.0\scopedcss\bundle\APIApplication.styles.css
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\obj\Debug\net5.0\APIApplication.RazorTargetAssemblyInfo.cache
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\obj\Debug\net5.0\APIApplication.csproj.CopyComplete
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\obj\Debug\net5.0\APIApplication.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\obj\Debug\net5.0\ref\APIApplication.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\obj\Debug\net5.0\APIApplication.pdb
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\obj\Debug\net5.0\APIApplication.genruntimeconfig.cache
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\Asp.Net-Core-Web-API\APIApplication\obj\Debug\net5.0\APIApplication.csproj.AssemblyReference.cache
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\appsettings.json
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\APIApplication.exe
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\APIApplication.deps.json
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\APIApplication.runtimeconfig.json
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\APIApplication.runtimeconfig.dev.json
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\APIApplication.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\ref\APIApplication.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\APIApplication.pdb
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\APIApplication.Views.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\Humanizer.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\obj\Debug\net5.0\APIApplication.csproj.AssemblyReference.cache
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\obj\Debug\net5.0\APIApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\obj\Debug\net5.0\APIApplication.AssemblyInfoInputs.cache
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\obj\Debug\net5.0\APIApplication.AssemblyInfo.cs
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\obj\Debug\net5.0\APIApplication.csproj.CoreCompileInputs.cache
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\obj\Debug\net5.0\APIApplication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\obj\Debug\net5.0\APIApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\obj\Debug\net5.0\staticwebassets\APIApplication.StaticWebAssets.Manifest.cache
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\obj\Debug\net5.0\staticwebassets\APIApplication.StaticWebAssets.xml
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\obj\Debug\net5.0\scopedcss\bundle\APIApplication.styles.css
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\obj\Debug\net5.0\APIApplication.RazorTargetAssemblyInfo.cache
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\obj\Debug\net5.0\APIApplication.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\obj\Debug\net5.0\ref\APIApplication.dll
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\obj\Debug\net5.0\APIApplication.pdb
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\obj\Debug\net5.0\APIApplication.genruntimeconfig.cache
+C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\obj\Debug\net5.0\APIApplication.csproj.CopyComplete
