@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = APIApplication
-build_property.ProjectDir = C:\Users\mahmu\OneDrive\Desktop\React\dotNet\dotNetCoreAPI\APIApplication\
+build_property.ProjectDir = c:\Users\mahmu\OneDrive\Desktop\React\dotnet-reactJs-crud\dotNetCoreAPI\APIApplication\

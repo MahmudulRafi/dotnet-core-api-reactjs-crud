@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fO5dlZ/VGtiLy70RZMkbdThxo91ur/Q6XfHUlGemdZmEnRUUv8yz+klHAhdn33hfUPnrjUSobXvp2GTMI/Hkdg==",
+  "dgSpecHash": "fGBvwVRAYwRVTW37kk/bD28GFcotSHv+kSRVhjrunWE+J5WoJ5dw7d9GyiwDpFuD5VDWRz7ZdMloQ2lgEvPDJw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mahmu\\OneDrive\\Desktop\\React\\dotNet\\dotNetCoreAPI\\APIApplication\\APIApplication.csproj",
+  "projectFilePath": "C:\\Users\\mahmu\\OneDrive\\Desktop\\React\\dotnet-reactJs-crud\\dotNetCoreAPI\\APIApplication\\APIApplication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mahmu\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\mahmu\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

@@ -43,7 +43,7 @@ namespace APIApplication
             services.AddSwaggerGen(c =>
            {
                c.SwaggerDoc("v2", new OpenApiInfo { Title = "Api App", Version = "v2" });
-           });
+           });  
 
             // Repository
 
